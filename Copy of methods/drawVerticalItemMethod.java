@@ -1,4 +1,4 @@
-/**
+ /**
      * Draws the visual representation of a single data item when the plot has
      * a vertical orientation.
      *
