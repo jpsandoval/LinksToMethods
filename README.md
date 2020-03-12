@@ -1,6 +1,6 @@
 # Links
-| `Method Name` |`Number of lines` | `Link to original project`| `Link to a copy of the class`|
-|---------------|------------------|---------------------------|------------------------------|
+| `Method Name` |`Number of lines` | `Link to original project`| `Link to a copy of the method`|
+|---------------|------------------|---------------------------|-------------------------------|
 | drawSide  |371| <a href="https://github.com/jfree/jfreechart/blob/master/src/main/java/org/jfree/chart/plot/PiePlot3D.java"> drawSide method in Original Project</a > |<a href="https://github.com/Aleli03/LinksToMethods/blob/master/Copy%20of%20methods/DrawSideMethod.java"> drawSide method copy</a >|
 |drawHorizontalItem |143 |<a href="https://github.com/jfree/jfreechart/blob/master/src/main/java/org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.java"> drawHorizontalItem method in Original Project</a > |<a href="https://github.com/Aleli03/LinksToMethods/blob/master/Copy%20of%20methods/drawHorizontalItemMethod.java"> drawHorizontalItem method copy</a >|
 |drawVerticalItem |225 |<a href="https://github.com/jfree/jfreechart/blob/master/src/main/java/org/jfree/chart/renderer/category/BoxAndWhiskerRenderer.java"> drawVerticalItem method in Original Project</a > |<a href="https://github.com/Aleli03/LinksToMethods/blob/master/Copy%20of%20methods/drawVerticalItemMethod.java"> drawVerticalItem method copy</a >|
