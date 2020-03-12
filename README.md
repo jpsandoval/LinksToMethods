@@ -1,4 +1,7 @@
 # Overview
+
+This repostory contains additional material that we use for our paper "Improving the Success Rate of Applying the Extract Method Refactoring", that we sent for revision to Science Computer Programming Journal. It list the four methods that we use to conduct a partial replication of Vakilian’s ICSE ’14 study about usability issues of refactoring using IntelliJ IDEA.
+
 The Project used for this experiment was <a href="https://github.com/jfree/jfreechart">JFreeChart</a>. Because it is an open source app that has some large methods. 
 As you can see in the app's repository, JFreeChart is a comprehensive free chart library for the Java(tm) platform that can be used on the client-side (JavaFX and Swing) or the server side (with export to multiple formats including SVG, PNG and PDF).
 # Links to used methods
