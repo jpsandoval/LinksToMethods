@@ -1,5 +1,6 @@
 # Overview
-The Project used for this experiment was <a href="https://github.com/jfree/jfreechart">JFreeChart</a>. Because it is an opensource app hat has some large methods. 
+The Project used for this experiment was <a href="https://github.com/jfree/jfreechart">JFreeChart</a>. Because it is an open source app that has some large methods. 
+As you can see in the app's repository, JFreeChart is a comprehensive free chart library for the Java(tm) platform that can be used on the client-side (JavaFX and Swing) or the server side (with export to multiple formats including SVG, PNG and PDF).
 # Links to used methods
 In the following table you can find links to the exact used methods
 | `Method Name` |`Number of lines` | `Link to original project`| `Link to a copy of the method`|
